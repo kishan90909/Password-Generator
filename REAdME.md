@@ -3,7 +3,7 @@
 <div align="center">
   <h3>
     🚀 Live Demo: 
-    <a href="https://rendom-password-generated.netlify.app/" target="_blank">
+    <a href="https://kishan90909.github.io/Password-Generator/" target="_blank">
       View Application Here
     </a>
   </h3>
@@ -163,5 +163,6 @@ I am actively seeking **Software Engineering** and **Full-Stack Development** op
 *Built with ❤️ by Kishan Patel | 2026*
 
 ```
+
 
 ```
